@@ -223,6 +223,9 @@ ul>a{
     scrollbar-width: none;
     -ms-overflow-style: none;
 }
+.best-mobiles::-webkit-scrollbar-horizontal {
+  display: none;
+}
 .best-mobiles>.card-type{
     margin-left: 10px;
     width: 210px;
