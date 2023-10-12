@@ -217,9 +217,10 @@ ul>a{
     align-items: center;
     background-color: white;
     overflow: scroll;
+}
+.best-mobiles{
     scrollbar-width: none;
     -ms-overflow-style: none;
-
 }
 
 .best-mobiles>.card-type{
